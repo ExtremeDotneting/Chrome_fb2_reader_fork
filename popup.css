@@ -1,0 +1,18 @@
+#popup__mess {
+	width: 400px;
+	font-size: 14px;
+	color: #333;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	padding: 10px;
+}
+
+#popup__mess span {
+	margin-bottom: 10px;
+}
+
+#popup__mess span:nth-of-type(2) {
+	font-weight: bold
+}

@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Allows you to read files with the .fb2 extension in the Chrome browser."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "FB2 Chrome Reader"
+   },
+   "instruction": {
+      "message": "\u003Cspan>To run this extension you need to:\u003C/span> \u003Cspan>'Allow access to file URLS' in the 'Extension management' tab.\u003C/span>"
+   }
+}

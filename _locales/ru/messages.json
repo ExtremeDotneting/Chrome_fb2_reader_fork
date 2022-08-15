@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Даёт возможность читать файлы с расширением .fb2 в браузере Chrome."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "FB2 Chrome Reader"
+   },
+   "instruction": {
+      "message": "\u003Cspan>Чтобы расширение заработало, необходимо разрешить доступ к локальным файлам по ссылке:\u003C/span> \u003Cspan>Дополнительные инструменты → Расширения → Подробнее у FB2 Chrome Reader → Разрешение открывать локальные файлы по ссылкам\u003C/span>"
+   }
+}
